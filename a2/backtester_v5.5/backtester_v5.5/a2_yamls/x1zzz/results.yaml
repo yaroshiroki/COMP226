@@ -1,0 +1,12 @@
+ins:
+  short: 5.0
+  medium: 50.0
+  long: 150.0
+  PDratio: 3.09
+  rank_on_out: 3.0
+out:
+  short: 5.0
+  medium: 50.0
+  long: 200.0
+  PDratio: 4.35
+  rank_on_in: 2.0
